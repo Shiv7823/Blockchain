@@ -1,3 +1,5 @@
+<img width="1897" height="904" alt="image" src="https://github.com/user-attachments/assets/1c5bcd88-330e-4cc8-90bb-ade3d5a69a9d" />
+
 # Simple DeFi Staking
 
 ## Overview
@@ -60,4 +62,3 @@ Returns the staked balance of the caller.
 
 
 -----
-<img width="1897" height="904" alt="image" src="https://github.com/user-attachments/assets/a6811030-818d-4c39-b293-00d2da658e71" />
