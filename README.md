@@ -28,7 +28,7 @@ This project serves as a foundation for more advanced staking protocols, reward 
 ---
 
 ## Contract Address
-**`SPXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.simple-defi-staking`**
+**`ST02C19Z9X4M1A5G2J4Y98S4A6ZB7DCVRWNT4YDW.first_contract`**
 <img width="1897" height="904" alt="image" src="https://github.com/user-attachments/assets/96847120-80c1-424b-a42f-51a1be6f7a7b" />
 
 ---
