@@ -57,3 +57,5 @@ Returns the staked balance of the caller.
 
 ;; Get current stake balance
 (contract-call? .simple-defi-staking get-stake)
+
+<img width="1897" height="904" alt="image" src="https://github.com/user-attachments/assets/8c154021-48ef-48fe-8680-f0671c07d78c" />
