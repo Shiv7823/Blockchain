@@ -1,5 +1,3 @@
-<img width="1897" height="904" alt="image" src="https://github.com/user-attachments/assets/1c5bcd88-330e-4cc8-90bb-ade3d5a69a9d" />
-
 # Simple DeFi Staking
 
 ## Overview
@@ -31,6 +29,7 @@ This project serves as a foundation for more advanced staking protocols, reward 
 
 ## Contract Address
 **`SPXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.simple-defi-staking`**
+<img width="1897" height="904" alt="image" src="https://github.com/user-attachments/assets/96847120-80c1-424b-a42f-51a1be6f7a7b" />
 
 ---
 
